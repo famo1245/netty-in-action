@@ -1,0 +1,4 @@
+rootProject.name = 'chap02'
+include 'server'
+include 'client'
+
